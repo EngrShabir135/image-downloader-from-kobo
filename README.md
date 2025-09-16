@@ -13,6 +13,3 @@ A Streamlit app to download images from Kobo Toolbox given a file with image URL
 ## Deployment
 This app is ready to run on [Streamlit Cloud](https://streamlit.io/cloud).
 
-1. Clone this repo or fork it
-2. Push it to your own GitHub
-3. On Streamlit Cloud, create a new app and point it to:
